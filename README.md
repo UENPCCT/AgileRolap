@@ -1,4 +1,4 @@
 # AgileRolap
-AGILE ROLAP: Uma metodologia ágil para implantação de ambientes de inteligência de negócios.
+AGILE ROLAP: agil metodology for business intelligence environment deployment.
 
 versão 1.0.0
